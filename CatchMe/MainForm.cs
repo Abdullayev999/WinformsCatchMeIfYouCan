@@ -55,10 +55,6 @@ namespace CatchMe
                         ZeroLabel.Text = 0.ToString();
                         progressBar1.Value = 0;
                     }
-                    else
-                    {
-
-                    }
                 }
             }
 
